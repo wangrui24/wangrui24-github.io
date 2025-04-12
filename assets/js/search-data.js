@@ -440,12 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-our-paper-adjusted-nelson-aalen-estimators-by-inverse-treatment-probability-weighting-with-an-estimated-propensity-score-has-been-accepted-at-statistics-in-medicine",
+          title: 'Our paper “Adjusted Nelson–Aalen estimators by inverse treatment probability weighting with an estimated...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-new-preprint-titled-estimating-controlled-direct-treatment-effects-on-pain-intensity-using-structural-mean-models-application-to-pain-randomized-controlled-trials-is-available-on-medrxiv",
+          section: "News",},{id: "news-new-preprint-titled-estimating-controlled-direct-treatment-effects-on-pain-intensity-using-structural-mean-models-application-to-pain-randomized-controlled-trials-is-available-on-medrxiv",
           title: 'New preprint titled “Estimating controlled direct treatment effects on pain intensity using structural...',
           description: "",
           section: "News",},{id: "projects-project-1",
