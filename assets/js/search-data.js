@@ -59,28 +59,6 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/tabs/";
-          
-        },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
-          
-        },
       },{id: "post-a-post-that-can-be-cited",
         
           title: "a post that can be cited",
@@ -376,17 +354,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
