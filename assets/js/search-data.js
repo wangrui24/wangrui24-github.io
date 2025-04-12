@@ -44,15 +44,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-一些关于生物统计课程学习的建议",
         
-          title: "a post with image galleries",
+          title: "一些关于生物统计课程学习的建议",
         
-        description: "this is what included image galleries could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2025/plotly/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -207,17 +207,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
-      },{id: "post-一些关于生物统计课程学习的建议",
-        
-          title: "一些关于生物统计课程学习的建议",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/plotly/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
