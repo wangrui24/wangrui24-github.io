@@ -25,7 +25,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 1 # leave blank to include all the blog posts
 ---
 
 I am a PhD student in Biostatistics, University of Washington. I am working with Dr. Fei Gao as a research assistant at the Fred Hutch Cancer Center.
