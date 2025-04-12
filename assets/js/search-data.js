@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-new-preprint-titled-estimating-controlled-direct-treatment-effects-on-pain-intensity-using-structural-mean-models-application-to-pain-randomized-controlled-trials-is-available-on-medrxiv-doi-https-doi-org-10-1101-2025-04-09-25325306",
+          title: 'New preprint titled “Estimating controlled direct treatment effects on pain intensity using structural...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
